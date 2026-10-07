@@ -1,6 +1,6 @@
 # :trophy:ICPC Management System
 
-> ACM 班 2025 级程序设计课程A班第二次大作业
+> ACM 班 2026 级程序设计课程 A 班第二次大作业
 
 ## 📖目录
 
@@ -49,13 +49,13 @@
 
 |                    得分项                     | 分数占比 |
 |:------------------------------------------:| :------: |
-| 通过 **1986. ICPC Management System (2025)** |   80%    |
+| 通过 **1986. ICPC Management System (2026)** |   80%    |
 |        Code Review 和 **复杂度分析报告提交**         |   20%    |
 
 
 下面是需要说明的几点：
 
-- 题目 ICPC Management System (2024 B) 的所有测试点的时间限制是 ICPC Management System (2025) 的 **2.5 倍**，除此之外完全相同。
+- 题目 ICPC Management System (2024 B) 的所有测试点的时间限制是 ICPC Management System (2026) 的 **2.5 倍**，除此之外完全相同。
 
 - 在 Code Review 中我们会 **严格审查你的代码风格**，请遵循[代码风格要求](https://acm.sjtu.edu.cn/wiki/C%2B%2B代码风格)。
 
@@ -76,11 +76,11 @@
 - 除本地提供的样例数据外，我们也鼓励同学们根据自己的程序逻辑，尝试自己设计测试数据辅助调试。在开发和调试的过程中，你可以 **保存下自己设计过的测试数据** ，并记录下自己遇到过哪些困难的问题，以及最终是如何解决的，我们将会**在 Code Review 时检查**这些内容。
 
 - 本次作业的ddl为*死ddl*，原则上**不接受ddl后的提交**，但如果你没有能够在ddl前通过对应的题目，你也可以通过提交低一档的题目来获得一定的分数，具体如下：
-  - A 班同学如果未能通过**1986. ICPC Management System (2025)**，但通过了**1987. ICPC Management System (2024 B)**，将会在此部分获得 **不少于60%** 的分数。
+  - A 班同学如果未能通过**1986. ICPC Management System (2026)**，但通过了**1987. ICPC Management System (2024 B)**，将会在此部分获得 **不少于60%** 的分数。
 
 ### ⏱截止时间
 
-- ICPC Management System (2025) 与复杂度分析报告：第 8 周周一（10 月 27 日）18:30
+- ICPC Management System (2026) 与复杂度分析报告：第 8 周周一（10 月 27 日）18:30
 
 
 ### 🔧调试工具
